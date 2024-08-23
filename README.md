@@ -1,6 +1,6 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=안녕하세요&animation=&fontColor=ffffff&fontSize=40" />
-    </div>
+<!--     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=안녕하세요&animation=&fontColor=ffffff&fontSize=40" /> -->
+<!--     </div> -->
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 이것저것을 개발합니다</li> </div> 
