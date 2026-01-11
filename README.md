@@ -44,9 +44,9 @@
   </a>
 </p>
 
-<h2>🏅 Stats</h2>
+<!-- <h2>🏅 Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chlcken2&count_private=true&show_icons=true&theme=codeSTACKr" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlcken2&count_private=true&show_icons=true&theme=codeSTACKr" />
-</p>
+</p> -->
